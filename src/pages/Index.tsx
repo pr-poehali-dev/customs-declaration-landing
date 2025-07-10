@@ -53,7 +53,7 @@ const Index = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
               <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 mb-6">
-                Электронное декларирование
+                Таможенная декларация на товары
                 <span className="text-blue-600"> без стресса</span>
               </h1>
               <p className="text-xl text-gray-600 mb-8 leading-relaxed">
